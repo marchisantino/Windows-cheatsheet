@@ -193,14 +193,20 @@
 
 <br>
 
+**To check if you are anonymized online :**
+- https://amiunique.org/fingerprint
+- https://fingerprint.com/
+
+<br>
+
 **To find absolutely any media or website, old or not, for free :**
 - https://fmhy.net
 - https://cybermania.ws
-- https://reddit.com/r/Piracy/wiki/megathread/
+- https://reddit.com/r/Piracy/wiki/megathread
 - https://archive.org
-- https://cinepulse.to/
+- https://cinepulse.to
 - https://vimm.net/vault
-- https://myrient.erista.me/files/
+- https://myrient.erista.me/files
 
 <br>
 
@@ -218,6 +224,11 @@
 **Use temporary email addresses :**
 - https://temp-mail.org
 - https://yopmail.com
+
+<br>
+
+**Humanize LLM texts (remove non keyboard tokens) :**
+- https://humanize-ai.click
 
 <br>
 
