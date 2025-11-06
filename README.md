@@ -303,6 +303,16 @@
 
 <br>
 
+**To precisely identify a file type:**
+- Download TrID
+
+<br>
+
+**To look at a file at the lowest level (hexadecimal):**
+- Download HxD
+
+<br>
+
 **To visualize every file and their respective sizes:**
 - Download TreeSize
 
