@@ -181,6 +181,16 @@
 - Alt + 0140
 
 <br>
+
+**Open an admin CMD terminal:**
+- Win + X then A (the second letter might vary depending on your OS language)
+
+<br>
+
+**Cancel an shutdown or restart:**
+- If on the loading screen, spam ESC
+
+<br>
 <br>
 <br>
 
@@ -353,7 +363,12 @@
 <br>
 
 **Restart in BIOS:**
-- `shutdown /r /fw` (you can make it a shortcut on the desktop, just like every command or web url)
+- `shutdown /r /fw` (you can make it a shortcut on the desktop, just like every command or web url, you can also add the parameter `/t 0` if you don't want to wait for the cooldown)
+
+<br>
+
+**Program a restart or shutdown:**
+- `shutdown /r /t 3600` or `shutdown /s /t 3600` (the number is in seconds, here the action will take place in an hour, you can also cancel with `shutdown /a`)
 
 <br>
 
