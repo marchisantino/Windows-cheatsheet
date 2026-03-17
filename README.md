@@ -245,6 +245,12 @@
 
 <br>
 
+**Free uniform vector icons pack:**
+- https://lucide.dev/icons/
+- https://phosphoricons.com/
+
+<br>
+
 **To get rid of ads:**
 - Download uBlock Origin extension
 
