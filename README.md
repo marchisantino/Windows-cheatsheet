@@ -251,6 +251,11 @@
 
 <br>
 
+**Cheap PC components:**
+- https://www.alternate.fr
+
+<br>
+
 **To get rid of ads:**
 - Download uBlock Origin extension
 
