@@ -256,6 +256,31 @@
 
 <br>
 
+**Free resume maker (resumes are so cringe but whatever):**
+- https://app.flowcv.com/
+
+<br>
+
+**To locally (offline) convert any file to any other file (using windows right click context menu):**
+- Download https://file-converter.io/
+
+<br>
+
+**Automatically refuse cookies popups:**
+- Download I still don't care about cookies extension
+
+<br>
+
+**For my IT guys, quickly make pdf screenshot step by step tutorial (every click triggers a screenshot with highlighted cursor and text):**
+- Download easy steps step by step guide maker extension
+
+<br>
+
+**To cut acces to internet to one tab (if u dont trust it and it runs on front end):**
+- Download offline tabs extension (u really need ME for this ?)
+
+<br>
+
 **To get rid of ads:**
 - Download uBlock Origin extension
 
