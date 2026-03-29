@@ -301,6 +301,11 @@
 
 <br>
 
+**To put multiple bootable iso on a single USB stick (without burning them, just drag and drop):**
+- Download Ventoy
+
+<br>
+
 **In Google login prompts:**
 - You can type your Gmail address without @gmail.com, thank me later
 
