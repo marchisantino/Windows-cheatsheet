@@ -245,6 +245,11 @@
 
 <br>
 
+**To know or signal if a service is down:**
+- https://downdetector.com/
+
+<br>
+
 **Free uniform vector icons pack:**
 - https://lucide.dev/icons/
 - https://phosphoricons.com/
@@ -263,6 +268,11 @@
 
 **To locally (offline) convert any file to any other file (using windows right click context menu):**
 - Download https://file-converter.io/
+
+<br>
+
+**To truly erase a file from your disk in one click:**
+- Download eraser > https://eraser.heidi.ie/
 
 <br>
 
