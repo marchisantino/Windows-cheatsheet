@@ -349,6 +349,11 @@
 
 <br>
 
+**The fastest browser ever (+ it has ublock origin preinstalled):**
+- Download Thorium
+
+<br>
+
 **To manage all your RGB devices at once:**
 - Download SignalRGB
 
@@ -388,6 +393,7 @@
 
 **To do sophisticated network scans:**
 - Download Zenmap
+- Just for a single port scan, you can use https://www.yougetsignal.com/tools/open-ports/
 
 <br>
 <br>
