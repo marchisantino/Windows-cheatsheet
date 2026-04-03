@@ -316,6 +316,11 @@
 
 <br>
 
+**To diagnose a defective PC:**
+- Trough Ventoy, put and boot on the iso Hiren's boot CD (or, stronger, medicat)
+
+<br>
+
 **In Google login prompts:**
 - You can type your Gmail address without @gmail.com, thank me later
 
