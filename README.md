@@ -334,6 +334,7 @@
 
 **To search anywhere instantly on your PC:**
 - Download Everything (do it)
+- For cmd (Windows and Linux) download fzf
 
 <br>
 
